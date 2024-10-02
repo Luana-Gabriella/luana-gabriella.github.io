@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    font-family: Roboto;
+    margin: 0%;
+}
+
+main{
+    margin: 3%;
+}
+
+/*Formatação do Header*/
+
+header{
+    background-color: lavenderblush;
+}
+
+#titulo{
+    margin: 20px;
+}
+
+#logo{
+    height: 60px;
+    margin: 5px;
+}
+
+#cabecalho{
+    list-style-type: none;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+
+/*Formatação da seção principal*/
+
+#principal{
+    background-color: lavender;
+    padding: 4%;
+    border-radius: 25px;
+    width: 90%;
+    display: inline-block;
+}
+
+#descricao1{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    padding-right: 16px;
+    padding-left: 16px;
+    width: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#descricao2{
+    font-size: 18px;
+    text-align: center;
+    padding-right: 16px;
+    padding-left: 16px;
+    width: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*Formatação da seção de artigos*/
+
+.listaArtigos{
+    list-style-type: none;
+    display: flex;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+.artigo{
+    background-color: lavender;
+    margin: 2%;
+    padding: 4%;
+    border-radius: 25px;
+    height: 150px;
+}
+
+.tituloArtigo{
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+.textoArtigo{
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+.caixaArtigo{
+    width: 600px;
+}
+
+/*Formatação da seção de dicas*/
+
+.listaDicas{
+    list-style-type: none;
+    display: flex;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+.dica{
+    background-color: lavender;
+    margin: 2%;
+    padding: 4%;
+    border-radius: 25px;
+    height: 150px;
+}
+
+.caixaDica{
+    width: 300px;
+}
+
+/*Formatação da seção de profissionais*/
+
+.profissionais{
+    padding: 30px;
+}
+
+#listaProfissionais{
+    list-style-type: none;
+    display: flex;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+.fotoPerfil{
+    width: 180px;
+    border-radius: 100%;
+    margin: 3px;
+}
+
+.nome{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.especialidade{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+/*Formatação da seção footer*/
+
+#listaComunidade{
+    list-style-type: none;
+    display: flex;
+    padding-right: 45%;
+    padding-left: 45%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0px;
+
+}
+
+.comunidade{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+footer{
+    background-color: lavenderblush;
+    list-style-type: none;
+}

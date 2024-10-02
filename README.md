@@ -1,2 +1,2 @@
-# Repositório do projeto: Florescer, realizado pelo Reprogmrama: conectadas.
+# Repositório do projeto: Florescer, realizado pelo Reprograma: conectadas.
 
